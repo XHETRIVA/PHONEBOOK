@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\VISUAL STUDIO\\CPPfiles\\.vscode"
+		},
+		{
+			"path": "C:\\PROJECTS DATA\\PHONEBOOK FILES\\PHONEBOOK"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"xstring": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Phonebook"
+	}
+}
